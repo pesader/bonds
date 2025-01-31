@@ -1,6 +1,4 @@
-<img align="center" height="60" src="./assets/bonds.png">
-
-# Bonds
+![Bonds' banner, showing its logo and a screenshot of its Jupyter notebook](assets/banner.png)
 
 Bonds is a machine learning project that uses protein large language models (pLLMs) to predict protein-ligand interaction. It focuses on the human proteome (i.e. the proteins of the human body), and aims to be most applicable in the fields of medicine and pharmacology.
 
