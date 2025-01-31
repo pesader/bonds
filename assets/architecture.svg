@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="architecture.svg"
+   inkscape:export-filename="architecture.png"
+   inkscape:export-xdpi="288"
+   inkscape:export-ydpi="288"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.71179155"
+     inkscape:cx="194.57944"
+     inkscape:cy="526.13718"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="69.975279,136.04755"
+       end_point="69.975279,150.26564"
+       center_point="69.975279,143.1566"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="true"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="116.40942,33.92866"
+       end_point="116.40942,34.3933"
+       center_point="116.40942,34.16098"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="true"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="115.19693,120.50733"
+       end_point="115.08519,97.934536"
+       center_point="115.14106,109.22093"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="69.975279,136.04756"
+       end_point="69.975279,150.26565"
+       center_point="69.975279,143.15661"
+       id="path-effect3-9"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="true"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+    <marker
+       style="overflow:visible"
+       id="Triangle-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.247307;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect27"
+       width="136.06525"
+       height="216.35561"
+       x="36.419189"
+       y="36.790901"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="architecture.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#5e5c64;stroke-width:0.482705;stroke-dasharray:1.93082, 0.482705;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect18"
+       width="37.404175"
+       height="111.96963"
+       x="69.805145"
+       y="-160.98582"
+       ry="4.6430697"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#b3cce5;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-0"
+       width="2"
+       height="2"
+       x="63.440346"
+       y="141.48306"
+       ry="0" />
+    <rect
+       style="fill:#b3cce5;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-5"
+       width="2"
+       height="2"
+       x="65.440346"
+       y="141.48306"
+       ry="0" />
+    <rect
+       style="fill:#b3cce5;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-9"
+       width="2"
+       height="2"
+       x="67.440346"
+       y="141.48306"
+       ry="0" />
+    <rect
+       style="fill:#b3cce5;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-4"
+       width="2"
+       height="2"
+       x="69.440346"
+       y="141.48306"
+       ry="0" />
+    <rect
+       style="fill:#b3cce5;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-6-6"
+       width="4.1166687"
+       height="1.9874396"
+       x="71.440353"
+       y="141.48935"
+       ry="0" />
+    <rect
+       style="fill:#b3cce5;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-6-8-9"
+       width="2"
+       height="2"
+       x="75.556999"
+       y="141.48306"
+       ry="0" />
+    <rect
+       style="fill:#b3cce5;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-6-8-3-2"
+       width="2"
+       height="2"
+       x="77.556999"
+       y="141.48306"
+       ry="0" />
+    <rect
+       style="fill:#b3cce5;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-6-8-3-8-2"
+       width="2"
+       height="2"
+       x="79.556999"
+       y="141.48306"
+       ry="0" />
+    <rect
+       style="fill:#b3cce5;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-6-8-3-9-4"
+       width="2"
+       height="2"
+       x="81.556999"
+       y="141.48306"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       x="73.498672"
+       y="142.61855"
+       id="text10-5-6-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan10-6-3-5-5"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.529167"
+         x="73.498672"
+         y="142.61855">...</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 90.984235,139.44158 c 0.920951,-7.13603 -19.202501,0.11929 -21.008956,-5.67924 -1.806455,5.79853 -21.929907,-1.45679 -21.008956,5.67924"
+       id="path2"
+       inkscape:path-effect="#path-effect3"
+       inkscape:original-d="m 69.985921,133.72731 c -1.736338,5.8627 -21.942395,-1.43606 -21.019598,5.71427"
+       sodipodi:nodetypes="cc"
+       transform="matrix(-0.54578416,0,0,-0.54578416,111.73195,219.14732)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:2.11667px;line-height:1.25;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="65.056549"
+       y="148.88715"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lexend;-inkscape-font-specification:Lexend;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="65.056549"
+         y="148.88715">1024 dimensions</tspan></text>
+    <g
+       id="g18"
+       transform="translate(-102.71414,68.632477)">
+      <rect
+         style="fill:#debade;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-1-0-0-1-1"
+         width="2"
+         height="2"
+         x="198.48497"
+         y="105.2005"
+         ry="0" />
+      <rect
+         style="fill:#debade;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-1-0-7-5-7-2"
+         width="2"
+         height="2"
+         x="200.48497"
+         y="105.2005"
+         ry="0" />
+      <rect
+         style="fill:#debade;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-1-0-7-9-9-7-9"
+         width="2"
+         height="2"
+         x="202.48497"
+         y="105.2005"
+         ry="0" />
+      <rect
+         style="fill:#debade;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-1-0-7-9-7-4-1-3"
+         width="2"
+         height="2"
+         x="204.48497"
+         y="105.2005"
+         ry="0" />
+      <rect
+         style="fill:#debade;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-1-0-7-9-7-6-6-1-9"
+         width="4.1166687"
+         height="1.9874396"
+         x="206.48497"
+         y="105.20679"
+         ry="0" />
+      <rect
+         style="fill:#debade;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-1-0-7-9-7-6-8-9-5-0"
+         width="2"
+         height="2"
+         x="210.60164"
+         y="105.2005"
+         ry="0" />
+      <rect
+         style="fill:#debade;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-1-0-7-9-7-6-8-3-2-9-8"
+         width="2"
+         height="2"
+         x="212.60164"
+         y="105.2005"
+         ry="0" />
+      <rect
+         style="fill:#debade;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-1-0-7-9-7-6-8-3-8-2-7-8"
+         width="2"
+         height="2"
+         x="214.60164"
+         y="105.2005"
+         ry="0" />
+      <rect
+         style="fill:#debade;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-1-0-7-9-7-6-8-3-9-4-7-5"
+         width="2"
+         height="2"
+         x="216.60164"
+         y="105.2005"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="208.5433"
+         y="106.33597"
+         id="text10-5-6-8-7-6-0"><tspan
+           sodipodi:role="line"
+           id="tspan10-6-3-5-5-7-9"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.529167"
+           x="208.5433"
+           y="106.33597">...</tspan></text>
+    </g>
+    <rect
+       style="fill:#edb5aa;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-0-1"
+       width="2"
+       height="2"
+       x="125.29477"
+       y="141.5961"
+       ry="0" />
+    <rect
+       style="fill:#edb5aa;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-5-7"
+       width="2"
+       height="2"
+       x="127.29477"
+       y="141.5961"
+       ry="0" />
+    <rect
+       style="fill:#edb5aa;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-9-7"
+       width="2"
+       height="2"
+       x="129.29477"
+       y="141.5961"
+       ry="0" />
+    <rect
+       style="fill:#edb5aa;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-4-1"
+       width="2"
+       height="2"
+       x="131.29477"
+       y="141.5961"
+       ry="0" />
+    <rect
+       style="fill:#edb5aa;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-6-6-1"
+       width="4.1166687"
+       height="1.9874396"
+       x="133.29477"
+       y="141.6024"
+       ry="0" />
+    <rect
+       style="fill:#edb5aa;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-6-8-9-5"
+       width="2"
+       height="2"
+       x="137.41145"
+       y="141.5961"
+       ry="0" />
+    <rect
+       style="fill:#edb5aa;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-6-8-3-2-9"
+       width="2"
+       height="2"
+       x="139.41145"
+       y="141.5961"
+       ry="0" />
+    <rect
+       style="fill:#edb5aa;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-6-8-3-8-2-7"
+       width="2"
+       height="2"
+       x="141.41145"
+       y="141.5961"
+       ry="0" />
+    <rect
+       style="fill:#edb5aa;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-5-0-1-0-7-9-7-6-8-3-9-4-7"
+       width="2"
+       height="2"
+       x="143.41145"
+       y="141.5961"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       x="135.3531"
+       y="142.73158"
+       id="text10-5-6-8-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan10-6-3-5-5-7"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.529167"
+         x="135.3531"
+         y="142.73158">...</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 90.984235,139.44158 c 0.920951,-7.13603 -19.202501,0.11929 -21.008956,-5.67924 -1.806455,5.79853 -21.929907,-1.45679 -21.008956,5.67924"
+       id="path2-3"
+       inkscape:path-effect="#path-effect3-9"
+       inkscape:original-d="m 69.985921,133.72731 c -1.736338,5.8627 -21.942395,-1.43606 -21.019598,5.71427"
+       sodipodi:nodetypes="cc"
+       transform="matrix(-0.54578416,0,0,-0.54578416,173.5864,219.26038)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:2.11667px;line-height:1.25;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="126.911"
+       y="149.00024"
+       id="text16-6"><tspan
+         sodipodi:role="line"
+         id="tspan16-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lexend;-inkscape-font-specification:Lexend;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="126.911"
+         y="149.00024">1024 dimensions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.11667px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:49.1266;display:inline;fill:#134786;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+       x="27.992666"
+       y="97.645782"
+       id="text1"
+       transform="translate(29.439145,-7.1536408)"><tspan
+         x="27.992666"
+         y="97.645782"
+         id="tspan31"><tspan
+           style="font-weight:500;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';stroke:none"
+           id="tspan3">MYSKIRIVGKIDVLTGLHIGGGGETSMIGAIASPVVRD</tspan></tspan><tspan
+         x="27.992666"
+         y="100.29803"
+         id="tspan33"><tspan
+           style="font-weight:500;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';stroke:none"
+           id="tspan32">PYSRLPIIPGSSIKGKMRSLLAKHIGLIPGQKMHNQDA</tspan></tspan><tspan
+         x="27.992666"
+         y="102.95027"
+         id="tspan35"><tspan
+           style="font-weight:500;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';stroke:none"
+           id="tspan34">PEILRLFGSSQKGAIQSSRLQISDAFFSKASQEEFDKK</tspan></tspan><tspan
+         x="27.992666"
+         y="105.60251"
+         id="tspan37"><tspan
+           style="font-weight:500;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';stroke:none"
+           id="tspan36">DLAYTETKFENTISRLTAVANPRQIERVTRGASFDFHI</tspan></tspan><tspan
+         x="27.992666"
+         y="108.25476"
+         id="tspan39"><tspan
+           style="font-weight:500;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';stroke:none"
+           id="tspan38">IYNVENINEVMADFENIKTAIHLLENDYLGG</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.70417px;line-height:1.25;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#134786;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+       x="55.10199"
+       y="78.815742"
+       id="text16-2"><tspan
+         sodipodi:role="line"
+         id="tspan16-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lexend;-inkscape-font-specification:Lexend;fill:#134786;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="55.10199"
+         y="78.815742">Protein amino acid sequence</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:2.38125px;line-height:1.25;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#134786;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+       x="74.116089"
+       y="85.396255"
+       id="text16-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan16-2-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;font-family:Lexend;-inkscape-font-specification:Lexend;fill:#134786;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="74.116089"
+         y="85.396255">For example:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:2.11667px;line-height:1.25;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:48.0111;display:inline;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="92.607895"
+       y="221.33844"
+       id="text16-2-7"
+       transform="translate(12.670698,-2.041963)"><tspan
+         x="92.607895"
+         y="221.33844"
+         id="tspan41"><tspan
+   style="font-weight:normal;font-family:Lexend;-inkscape-font-specification:Lexend"
+   id="tspan40">This model outputs the ligand that is most</tspan><tspan
+   y="221.33844"
+   id="tspan42"> </tspan></tspan><tspan
+         x="92.607895"
+         y="224.04201"
+         id="tspan44"><tspan
+   style="font-weight:normal;font-family:Lexend;-inkscape-font-specification:Lexend"
+   id="tspan43">likely to bind a protein, given the protein's</tspan><tspan
+   y="224.04201"
+   id="tspan45"> </tspan></tspan><tspan
+         x="92.607895"
+         y="226.74558"
+         id="tspan47"><tspan
+           style="font-weight:normal;font-family:Lexend;-inkscape-font-specification:Lexend"
+           id="tspan46">amino acid sequence and binding site.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:2.38125px;line-height:1.25;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#5e5c64;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+       x="97.854767"
+       y="230.22095"
+       id="text16-2-8-81"><tspan
+         sodipodi:role="line"
+         id="tspan16-2-6-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;font-family:Lexend;-inkscape-font-specification:Lexend;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="97.854767"
+         y="230.22095">For example:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:2.38125px;line-height:1.25;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a51d2d;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+       x="129.16588"
+       y="85.396255"
+       id="text16-2-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan16-2-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;font-family:Lexend;-inkscape-font-specification:Lexend;fill:#a51d2d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="129.16588"
+         y="85.396255">For example:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.70417px;line-height:1.25;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Medium';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a51d2d;stroke:#000000;stroke-width:0.265;stroke-dasharray:0.795, 0.265;stroke-dashoffset:0"
+       x="118.7822"
+       y="78.670425"
+       id="text16-2-1"
+       inkscape:transform-center-x="4.205471"
+       inkscape:transform-center-y="-2.2341565"><tspan
+         sodipodi:role="line"
+         id="tspan16-2-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lexend;-inkscape-font-specification:Lexend;fill:#a51d2d;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:0.795, 0.265;stroke-dashoffset:0"
+         x="118.7822"
+         y="78.670425">Protein binding site</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.58624px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a51d2d;fill-opacity:1;stroke:none;stroke-width:0.823277"
+       x="130.6987"
+       y="93.799622"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'JetBrainsMonoNL Nerd Font';-inkscape-font-specification:'JetBrainsMonoNL Nerd Font';fill:#a51d2d;stroke-width:0.823277"
+         x="130.6987"
+         y="93.799622">397</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#5e5c64;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 136.07222,107.20269 V 137.301"
+       id="path18"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#5e5c64;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle-8)"
+       d="M 73.090206,107.20269 V 137.301"
+       id="path18-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#5e5c64;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle-8-2)"
+       d="m 105.76272,161.21893 v 7.95383"
+       id="path18-1-8"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#5e5c64;stroke-width:0.381309;stroke-dasharray:1.52523, 0.381309;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect18-4"
+       width="31.372807"
+       height="54.362339"
+       x="212.567"
+       y="-132.39775"
+       ry="6.128809"
+       transform="rotate(90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:'JetBrainsMonoNL Nerd Font';-inkscape-font-specification:'JetBrainsMonoNL Nerd Font';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="105.82853"
+       y="209.47707"
+       id="text18-6"><tspan
+         sodipodi:role="line"
+         id="tspan18-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:center;text-anchor:middle;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         x="105.82853"
+         y="209.47707">Trained model</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:'JetBrainsMonoNL Nerd Font';-inkscape-font-specification:'JetBrainsMonoNL Nerd Font';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="104.82704"
+       y="66.308228"
+       id="text18-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan18-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:center;text-anchor:middle;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         x="104.82704"
+         y="66.308228">HProteome BSite dataset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82083px;line-height:1.25;font-family:'JetBrainsMonoNL Nerd Font';-inkscape-font-specification:'JetBrainsMonoNL Nerd Font';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="105.57712"
+       y="50.100269"
+       id="text18-6-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan18-9-2-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82083px;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         x="105.57712"
+         y="50.100269">Bonds Model Training</tspan></text>
+    <path
+       style="fill:none;fill-opacity:0.34902;stroke:#5e5c64;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       d="m 73.922195,152.61429 c 0,0 -0.493668,3.55844 3.288211,3.7398 3.781893,0.18135 27.667534,0 27.667534,0"
+       id="path23" />
+    <path
+       style="fill:none;fill-opacity:0.34902;stroke:#5e5c64;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.83367,152.61429 c 0,0 0.49368,3.55844 -3.28821,3.7398 -3.78189,0.18135 -27.66752,0 -27.66752,0"
+       id="path23-8" />
+    <circle
+       style="fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.204447"
+       id="path17"
+       cx="156.33397"
+       cy="-105.63018"
+       r="5.6868587"
+       transform="rotate(90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.6778px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.45972"
+       x="152.83061"
+       y="-101.7765"
+       id="text17-1"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan17-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'JetBrainsMonoNL Nerd Font';-inkscape-font-specification:'JetBrainsMonoNL Nerd Font';fill:#ffffff;stroke-width:1.45972"
+         x="152.83061"
+         y="-101.7765">+</tspan></text>
+    <g
+       id="g26"
+       transform="translate(11.92712,16.858264)">
+      <rect
+         style="fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.544493;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-4"
+         width="28.069101"
+         height="10.553577"
+         x="47.155972"
+         y="100.85654"
+         ry="1.699905" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:20.6895;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="61.162914"
+         y="112.05712"
+         id="text10-5-7-7"
+         transform="translate(0,-6.6635663)"><tspan
+           x="61.162914"
+           y="112.05712"
+           id="tspan48">ProT5 Protein Large<tspan
+   y="112.05712"
+   id="tspan49"> </tspan></tspan><tspan
+           x="61.162914"
+           y="114.70296"
+           id="tspan50">Language Model</tspan></text>
+    </g>
+    <g
+       id="g25"
+       transform="translate(13.426897,16.563898)">
+      <rect
+         style="fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.544493;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-4-9"
+         width="28.069101"
+         height="10.553577"
+         x="108.63822"
+         y="101.1509"
+         ry="1.699905" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:20.6895;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="61.162914"
+         y="112.05712"
+         id="text10-5-7-7-6"
+         transform="translate(61.482244,-6.3692004)"><tspan
+           x="61.162914"
+           y="112.05712"
+           id="tspan51">Frequency-based<tspan
+   y="112.05712"
+   id="tspan52"> </tspan></tspan><tspan
+           x="61.162914"
+           y="114.70296"
+           id="tspan53">positional encoding</tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#5e5c64;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle-3)"
+       d="m 105.82161,178.2981 v 23.95204"
+       id="path18-0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g25-9"
+       transform="translate(-17.57992,84.726554)">
+      <rect
+         style="fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.596274;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-5-0-4-9-2"
+         width="38.235184"
+         height="10.553581"
+         x="103.47841"
+         y="100.09953"
+         ry="2.0386007" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:33.3246;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="61.162914"
+         y="112.05712"
+         id="text10-5-7-7-6-5"
+         transform="translate(61.482244,-7.3653843)"><tspan
+           x="61.162914"
+           y="112.05712"
+           id="tspan54">Training of Multilabel Logistic<tspan
+   y="112.05712"
+   id="tspan55"> </tspan></tspan><tspan
+           x="61.162914"
+           y="114.70296"
+           id="tspan56">Regression Classification model</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.58624px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:Lexend;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:0.823277"
+       x="95.185265"
+       y="239.13669"
+       id="text17-6"><tspan
+         sodipodi:role="line"
+         id="tspan17-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'JetBrainsMonoNL Nerd Font';-inkscape-font-specification:'JetBrainsMonoNL Nerd Font';fill:#5e5c64;fill-opacity:1;stroke-width:0.823277"
+         x="95.185265"
+         y="239.13669">&quot;8NU&quot;</tspan></text>
+  </g>
+</svg>
